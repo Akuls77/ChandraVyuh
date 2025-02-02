@@ -41,9 +41,9 @@ The software employs the following **image enhancement algorithms**:
 
 ## **Future Enhancements**  
 
-- 🔹 Adding more **image processing techniques** for **better edge detection** and **crater analysis**.  
-- 🔹 Integrating **machine learning models** for **automated crater and boulder detection**.  
-- 🔹 Improving the **user interface** for a more seamless experience.  
+- Adding more **image processing techniques** for **better edge detection** and **crater analysis**.  
+- Integrating **machine learning models** for **automated crater and boulder detection**.  
+- Improving the **user interface** for a more seamless experience.  
 
 ## **Screenshots**  
 
